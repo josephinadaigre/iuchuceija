@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohnaituque.virtual-office-bratislava.com/sitemap.xml
